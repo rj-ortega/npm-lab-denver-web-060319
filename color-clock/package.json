@@ -1,0 +1,14 @@
+{
+  "name": "color-clock",
+  "version": "1.0.0",
+  "description": "lab",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Hello World!'"
+  },
+  "author": "Rj",
+  "license": "MIT",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
